@@ -37,6 +37,7 @@ jobs:
         working-directory: frontend
         env:
           VITE_API_URL: ""
+          VITE_BASE_PATH: "/AeroQ_Submission/"
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
