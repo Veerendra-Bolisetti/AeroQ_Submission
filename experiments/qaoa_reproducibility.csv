@@ -1,0 +1,6 @@
+scenario,seed,candidate_count,exact_best_objective,selected_objective,objective_gap,exact_best_route,selected_route,one_hot_found,backend,expectation_energy,selected_energy,shots,layers
+Normal conditions,42,8,9.711833614471997,9.711833614471997,0.0,A01 -> N03 -> N06 -> N08 -> A10,A01 -> N03 -> N06 -> N08 -> A10,True,Qiskit Statevector (local simulator),123.19124056838861,9.711833614471997,1024,2
+Normal conditions,43,8,9.711833614471997,9.711833614471997,0.0,A01 -> N03 -> N06 -> N08 -> A10,A01 -> N03 -> N06 -> N08 -> A10,True,Qiskit Statevector (local simulator),131.32010167343628,9.711833614471997,1024,2
+Normal conditions,44,8,9.711833614471997,9.711833614471997,0.0,A01 -> N03 -> N06 -> N08 -> A10,A01 -> N03 -> N06 -> N08 -> A10,True,Qiskit Statevector (local simulator),89.79117439677668,9.711833614471997,1024,2
+Normal conditions,45,8,9.711833614471997,9.711833614471997,0.0,A01 -> N03 -> N06 -> N08 -> A10,A01 -> N03 -> N06 -> N08 -> A10,True,Qiskit Statevector (local simulator),153.24749064276173,9.711833614471997,1024,2
+Normal conditions,46,8,9.711833614471997,9.711833614471997,0.0,A01 -> N03 -> N06 -> N08 -> A10,A01 -> N03 -> N06 -> N08 -> A10,True,Qiskit Statevector (local simulator),107.86109759970074,9.711833614471997,1024,2

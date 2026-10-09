@@ -1,0 +1,6 @@
+{
+  "normal": {"scenario_name":"Normal conditions","congestion_level":0.20,"wind_condition":0.15,"weather_penalty":0.08,"restricted_airspace":false},
+  "congestion": {"scenario_name":"High congestion","congestion_level":0.75,"wind_condition":0.0,"weather_penalty":0.10,"restricted_airspace":false},
+  "headwind": {"scenario_name":"Strong headwind","congestion_level":0.25,"wind_condition":-0.70,"weather_penalty":0.12,"restricted_airspace":false},
+  "restricted": {"scenario_name":"Restricted zone","congestion_level":0.30,"wind_condition":0.10,"weather_penalty":0.08,"restricted_airspace":true}
+}
